@@ -4,7 +4,7 @@ Guía de instalación de proyecto CRUD por Luis Enrique Romero Barbosa
 
 ##  CRUD
 
-Ejecutar el siguiente comando en ambas carpetas **backend-api** y **frontend-vue** para instalar node_modules
+Ejecutar el siguiente comando en ambas carpetas **/backend-api** y **/frontend-vue** para instalar node_modules
 ```
 $ npm install
 ```
